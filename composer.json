@@ -11,6 +11,7 @@
     "minimum-stability": "stable",
     "require": {
         "fed/ewma-module-installer-plugin": "~0.0.1",
-        "fed/std-ui-mce": "^0.1"
+        "fed/std-ui-mce": "~0.1",
+        "fed/ss-components": "~0.1"
     }
 }
